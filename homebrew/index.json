@@ -5,5 +5,11 @@
 		"This file contains as an index for other homebrew files, which should be placed in the same directory.",
 		"For example, add \"My Homebrew.json\" to the \"toImport\" array below, and have a valid JSON homebrew file in this (\"homebrew/\") directory."
 	],
-	"toImport": []
+	"toImport": [
+		"Darrington Press; Tal’Dorei Campaign Setting Reborn.json",
+		"TalesofExandria; Tales of Exandria Monstruary.json",
+		"Mage Hand Press; Dark Matter.json",
+		"Mage Hand Press; Valda's Spire of Secrets.json",
+		"Sesserdrix; Wildjammer - More Adventures in Space.json"
+	]
 }
